@@ -1,4 +1,4 @@
-Proje cts Completed
+Projects Completed
 
 **Advanced Analytics Implementation** ( TrendyTech ):
 
